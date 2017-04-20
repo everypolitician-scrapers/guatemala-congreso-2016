@@ -24,15 +24,15 @@ response:
     Connection:
     - close
     Content-Length:
-    - '784'
+    - '783'
     X-Iinfo:
-    - 10-24385347-0 0NNN RT(1492706964230 1) q(0 -1 -1 -1) r(0 -1) B12(4,315,0) U19
+    - 4-18327435-0 0NNN RT(1492706992270 0) q(0 -1 -1 -1) r(0 -1) B12(4,315,0) U19
     Set-Cookie:
-    - incap_ses_453_1073644=TvwHUJ34FmOqftUEh2FJBpTm+FgAAAAA8slZ+zxqlftvmx+/7Y+byw==;
+    - incap_ses_453_1073644=WisSEQrtyndhuNUEh2FJBrDm+FgAAAAAGpcGgCwVv9Xsuy9ydHJ/gA==;
       path=/; Domain=.congreso.gob.gt
-    - visid_incap_1073644=LIBXVtrzS62/vGfnu0PSv5Tm+FgAAAAAQUIPAAAAAADMQX0cg5xlpqm15YiZARiK;
-      expires=Fri, 20 Apr 2018 08:22:48 GMT; path=/; Domain=.congreso.gob.gt
+    - visid_incap_1073644=FxJMkSZ6SryP2Jx90fLD1rDm+FgAAAAAQUIPAAAAAACz7zfsPX5TxwOnek7l4vBd;
+      expires=Fri, 20 Apr 2018 08:23:02 GMT; path=/; Domain=.congreso.gob.gt
   body:
     encoding: UTF-8
   http_version: 
-recorded_at: Thu, 20 Apr 2017 16:49:24 GMT
+recorded_at: Thu, 20 Apr 2017 16:49:52 GMT
