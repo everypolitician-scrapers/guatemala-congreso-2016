@@ -19,21 +19,20 @@ response:
   headers:
     Content-Type:
     - text/html
-    Connection:
-    - close
-    - close
     Cache-Control:
     - no-cache
+    Connection:
+    - close
     Content-Length:
-    - '6748'
+    - '782'
     X-Iinfo:
-    - 9-19592024-0 0NNN RT(1492699693002 1) q(0 -1 -1 0) r(0 -1) B10(4,289,0) U2
+    - 10-22702756-0 0NNN RT(1492699728356 0) q(0 -1 -1 0) r(0 -1) B12(4,315,0) U2
     Set-Cookie:
-    - incap_ses_453_1073644=H+iOBNnmdGbmWpwEh2FJBi3K+FgAAAAAXSMztqTjvek9x5NtH5qedw==;
+    - incap_ses_453_1073644=YHAjEUW9GhTmWpwEh2FJBlDK+FgAAAAAU8VbsvE4i59UB9GWPdpI8A==;
       path=/; Domain=.congreso.gob.gt
     - visid_incap_1073644=tHBM/JFsT3S55QVB0hyfSi3K+FgAAAAAQUIPAAAAAACRE6kEWIJyVYMGj+bFAbHl;
-      expires=Fri, 20 Apr 2018 08:23:02 GMT; path=/; Domain=.congreso.gob.gt
+      expires=Fri, 20 Apr 2018 08:22:48 GMT; path=/; Domain=.congreso.gob.gt
   body:
     encoding: UTF-8
   http_version: 
-recorded_at: Thu, 20 Apr 2017 14:48:13 GMT
+recorded_at: Thu, 20 Apr 2017 14:48:48 GMT
